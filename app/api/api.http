@@ -1,2 +1,5 @@
 ### Get users
 GET http://localhost:3000/api/users
+
+### Connect to sse
+GET http://localhost:3000/api/events
